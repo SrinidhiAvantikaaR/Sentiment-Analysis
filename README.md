@@ -36,18 +36,16 @@ This project implements an end-to-end sentiment analysis pipeline, including tex
 
 ## Project Structure
 
-├── app.py                 # Streamlit application
+├── app.py # Streamlit application
 ├── model/
-│   ├── vectorizer.pkl     # Trained TF-IDF vectorizer
-│   └── classifier.pkl     # Trained ML model
+│ ├── vectorizer.pkl # Trained TF-IDF vectorizer
+│ └── classifier.pkl # Trained ML model
 ├── data/
-│   └── dataset.csv        # Training dataset (optional)
+│ └── dataset.csv # Training dataset (optional)
 ├── notebook/
-│   └── training.ipynb     # Model training and evaluation
+│ └── training.ipynb # Model training and evaluation
 ├── requirements.txt
 └── README.md
-
-
 
 ---
 
