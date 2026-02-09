@@ -36,6 +36,7 @@ This project implements an end-to-end sentiment analysis pipeline, including tex
 
 ## Project Structure
 
+```
 ├── app.py # Streamlit application
 ├── model/
 │ ├── vectorizer.pkl # Trained TF-IDF vectorizer
@@ -46,10 +47,9 @@ This project implements an end-to-end sentiment analysis pipeline, including tex
 │ └── training.ipynb # Model training and evaluation
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
-
 
 ## How It Works
 
@@ -69,7 +69,7 @@ The datasets used for training and evaluation (IMDB movie reviews and social med
 ## Installation & Usage
 
 ```bash
-# Clone the repository
+# Clone the repository (optional)
 git clone <repository-url>
 cd sentiment-analysis-web-app
 
