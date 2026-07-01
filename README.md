@@ -19,7 +19,7 @@ This project implements an end-to-end sentiment analysis pipeline, including tex
 - Easily extensible to multiple text domains (IMDB reviews, tweets, etc.)
 - Upload and batch processing of CSV files containing multiple reviews
 - Generates sentiment predictions for all entries in the dataset
-- Provides downloadable results/report in CSV or PDF format
+- Provides downloadable results/report in PDF format
 
 ---
 
