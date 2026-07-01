@@ -30,7 +30,8 @@ This project implements an end-to-end sentiment analysis pipeline, including tex
   - Scikit-learn  
   - Pandas  
   - NumPy  
-  - Streamlit  
+  - Streamlit
+  - FPDF
 - **NLP Techniques:**  
   - TF-IDF Vectorization  
   - Classical Machine Learning models  
